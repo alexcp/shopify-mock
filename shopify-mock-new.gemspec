@@ -4,8 +4,8 @@ $:.push File.expand_path("../lib", __FILE__)
 Gem::Specification.new do |s|
   s.name        = "shopify-mock-new"
   s.version     = "0.1"
-  s.authors     = ["Alex Croteau-Pothier"]
-  s.email       = ["alex@alexcp.com"]
+  s.authors     = ["Alex Croteau-Pothier", "Travis Haynes"]
+  s.email       = ["alex@alexcp.com", "travis.j.haynes@gmail.com"]
   s.homepage    = "https://github.com/alexcp/shopify-mock"
   s.summary     = %q{Serves Shopify resources via FakeWeb for easily testing Shopify apps.}
   s.description = %q{Fork of travishaynes/shopify-mock
